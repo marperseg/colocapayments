@@ -2,8 +2,8 @@
   "type": "service_account",
   "project_id": "sheet-test-430919",
   "private_key_id": "d0dcb6e7ebe05fda57e8e2a7574773c2959e100a",
-  "private_key": "  "
-  "client_email":"  "
+  "private_key": "  ",
+  "client_email":"  ",
   "client_id": "103851991187460599294",
   "auth_uri": "https://accounts.google.com/o/oauth2/auth",
   "token_uri": "https://oauth2.googleapis.com/token",
